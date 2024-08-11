@@ -1,2 +1,2 @@
 # GenAI_Assignment
-I change several things from the queries, where i specify the date that i wanted and specify the year. I also added the prompt from the GenAI workshop steps from Supertype website. 
+I edited the prompt and tools sections to make the LLM better understand the context of time. Sorry it took a long time. I had to browse around to find the solution. 
